@@ -288,6 +288,23 @@ User wants continuous monitoring. Suggested:
 | 2026-05-19 | JFK→ANU nonstop | B6/AA/DL | $450-650 | Antigua |
 | 2026-05-19 | JFK→UVF nonstop | B6 | $450-600 | St Lucia |
 
+### Fare-watch reading 2026-08-04 (~6.5 mo out) — ⚪ NO DEAL
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-08-04 | JFK→SXM nonstop | B6/DL/AA | $352-$433 (flexible dates) | Kayak/Travelocity/Expedia route pages | Feb 2027 Pres Day not yet priced separately; expect premium over baseline |
+| 2026-08-04 | JFK→SXM nonstop | JetBlue | ~$382 (May 2026 observed low) | caribjournal.com 2026-05-13 | Near-term data point; not Feb 2027 specific |
+| 2026-08-04 | JFK→BGI nonstop | B6/AA | $449-$475 (Sept 2026 dates) | Kayak / Caribbean Airlines route pages | Right at threshold; Feb 2027 Pres Day likely higher |
+| 2026-08-04 | JFK→BGI nonstop | B6/AA | $265 (past deal, Feb-Jun 2025) | Slickdeals 2025 post (expired) | Historical reference only |
+| 2026-08-04 | JFK→RTB 1-stop | DL via ATL / AA via MIA | $509-$539 (current route) | Expedia/Travelocity route pages | No nonstop; AA via CLT from ~$883 |
+| 2026-08-04 | JFK→RTB 1-stop | DL/AA | ~$226 low-end | Skyscanner route page | Likely one-way or off-peak flexible estimate |
+
+**Deal-source scan (2026-08-04):**
+- **Thrifty Traveler**: article "With Airfare on the Rise, It's Time to Book Your Winter 2027 Caribbean Trip" (~Apr 2026) mentioned SXM fares "in the $200s and $300s" for Jan-Feb winter 2027. Deal likely expired; worth re-checking Thrifty Traveler Premium for refreshed alerts.
+- **Going.com**: no active deal found for JFK→SXM/BGI/RTB this week
+- **JetBlue**: no flash sale found for these routes; JetBlue Vacations ran a "up to $450 off" flight+hotel promo (expired 7/27)
+- **JetBlue new route note**: JetBlue launched daily NYC→SAP (San Pedro Sula, Honduras) — may improve Roatan connection options
+
 ### Villa quotes log
 | Date | Villa | URL | Week $ | Available? |
 |---|---|---|---|---|
