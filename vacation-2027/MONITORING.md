@@ -305,6 +305,24 @@ User wants continuous monitoring. Suggested:
 - **JetBlue**: no flash sale found for these routes; JetBlue Vacations ran a "up to $450 off" flight+hotel promo (expired 7/27)
 - **JetBlue new route note**: JetBlue launched daily NYC→SAP (San Pedro Sula, Honduras) — may improve Roatan connection options
 
+### Fare-watch reading 2026-08-11 (~6 mo out) — ⚪ NO DEAL
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-08-11 | JFK→SXM nonstop | B6/DL/AA | ~$700-$950 est. Pres Day wk | JetBlue route page ($435 OW Feb 2027 from SXM); Kayak/Expedia aggregates | Off-peak current route fares ~$292-$475; Feb avg $1,206 per Cheapflights (all classes); Pres Day adds significant premium |
+| 2026-08-11 | JFK→SXM nonstop | JetBlue | $154 OW (~$308 RT) | JetBlue fall sale (expired Aug 6) | ⚠️ Sale covered Sep–Nov 2026 travel only — NOT Feb 2027. Shows deal floor level; watch for next B6 sale |
+| 2026-08-11 | JFK→BGI nonstop | B6/AA | ~$600-$750 est. Pres Day wk | Priceline $523 current; AA Jan 2027 $546; B6 Feb 2027 $260 OW implied; Momondo ~$463 best recent | Dollar Flight Club: EWR/PHL BGI trending <$280 but JFK higher; February is peak month |
+| 2026-08-11 | JFK→RTB 1-stop | DL via ATL / AA via MIA | ~$580-$950 est. Pres Day wk | Delta Feb 1–8 seen $525 RT; AA Feb 5–9 $816 RT; escape.flights historical floor $346-$401 | DL1808 is SAT-ONLY ATL→RTB — Feb 13 & Feb 20 are both Saturdays, ideal routing for our dates |
+
+**Deal-source scan (2026-08-11):**
+- **JetBlue**: Fall flash sale expired Aug 6 — SXM was $154 OW during sale but travel was Sep–Nov 2026 only. No current sale covering Feb 2027.
+- **Going.com**: No active deal found for JFK→SXM/BGI/RTB this week; Caribbean flagged as best international value summer 2026 but no specific alert for our routes.
+- **Thrifty Traveler**: No active alert for target routes; article still recommends booking winter 2027 Caribbean now (advance purchase advantage).
+- **The Points Guy**: No current active deal; historical SXM alert (2022) was $162–$226 RT for non-Pres Day dates.
+- **The Flight Deal**: Posted JFK→St. Kitts (SKB) $382 RT on B6 (Aug 3, 2026) — adjacent Caribbean, not our routes; signals JetBlue Caribbean deals still emerging.
+- **⚠️ JetBlue SAP route CORRECTION**: JetBlue JFK→SAP (San Pedro Sula) was SUSPENDED effective May 21, 2026 through Jan 30, 2027 (AeroRoutes confirmed). Prior note about SAP improving RTB connections was premature — route inactive until ~Feb 2027. Check JetBlue booking calendar in Oct 2026 to confirm if it resumes in time.
+- **Delta DL1808 scheduling note**: ATL→RTB nonstop runs Saturdays only — perfect alignment with Feb 13 outbound and Feb 20 return dates if/when we book RTB.
+
 ### Villa quotes log
 | Date | Villa | URL | Week $ | Available? |
 |---|---|---|---|---|
