@@ -323,6 +323,24 @@ User wants continuous monitoring. Suggested:
 - **⚠️ JetBlue SAP route CORRECTION**: JetBlue JFK→SAP (San Pedro Sula) was SUSPENDED effective May 21, 2026 through Jan 30, 2027 (AeroRoutes confirmed). Prior note about SAP improving RTB connections was premature — route inactive until ~Feb 2027. Check JetBlue booking calendar in Oct 2026 to confirm if it resumes in time.
 - **Delta DL1808 scheduling note**: ATL→RTB nonstop runs Saturdays only — perfect alignment with Feb 13 outbound and Feb 20 return dates if/when we book RTB.
 
+### Fare-watch reading 2026-08-18 (~6 mo out) — ⚪ NO DEAL
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-08-18 | JFK→SXM nonstop | B6/DL/AA | ~$320-$433 (off-peak, general) | Kayak/Skyscanner/Travelocity route pages | No Feb 2027 Pres Day fares surfaced yet; Feb general avg ~$1,206 all-classes per Cheapflights (prior data); Pres Day premium est. ~$700-$950 |
+| 2026-08-18 | JFK→SXM nonstop | JetBlue | $154 OW (~$308 RT) sale floor | JetBlue fall sale (expired Aug 6, 2026) | Travel Sep–Nov 2026 only; not Feb 2027. Establishes B6 deal floor for reference |
+| 2026-08-18 | JFK→BGI nonstop | Caribbean Airlines | $416 (route page) | flights.caribbean-airlines.com | General/off-peak pricing; Feb 2027 Pres Day est. ~$600-$750 based on prior data |
+| 2026-08-18 | JFK→BGI nonstop | B6/AA | ~$449-$475 (Sep 2026 dates) | Prior week data / aggregates stable | Feb 2027 peak premium expected |
+| 2026-08-18 | JFK→RTB 1-stop | DL via ATL / AA via MIA | ~$509-$539 (current route) | Travelocity/Expedia route pages; Skyscanner £438 OW | No nonstop; Feb 2027 Pres Day est. ~$580-$950 (unchanged from prior week) |
+
+**Deal-source scan (2026-08-18):**
+- **JetBlue**: Fall flash sale (Aug 5-6) just expired — SXM was $154 OW but Sep–Nov 2026 travel only. No current sale covering Feb 2027 travel.
+- **Going.com**: No active deal found for JFK→SXM/BGI/RTB this week.
+- **Thrifty Traveler**: No new flash deal found; prior article still urging early booking of winter 2027 Caribbean.
+- **The Points Guy**: No new Caribbean deal post for our target routes this week.
+- **American Airlines**: No targeted flash sale found covering Feb 2027 Caribbean from JFK.
+- **Note**: Caribbean Airlines shows JFK→BGI from $416 (general route page pricing, off-peak dates).
+
 ### Villa quotes log
 | Date | Villa | URL | Week $ | Available? |
 |---|---|---|---|---|
