@@ -341,6 +341,21 @@ User wants continuous monitoring. Suggested:
 - **American Airlines**: No targeted flash sale found covering Feb 2027 Caribbean from JFK.
 - **Note**: Caribbean Airlines shows JFK→BGI from $416 (general route page pricing, off-peak dates).
 
+### Fare-watch reading 2026-08-25 (~5.5 mo out) — ⚪ NO DEAL
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-08-25 | JFK→SXM nonstop | B6/DL/AA | ~$382-$433 (off-peak, general) | Kayak ($103 floor displayed), Travelocity ($154 displayed), Skyscanner (£258 ≈ $330) | Route page low-ball displays; recent lowest seen "in last 5 days" was $260 RT per Travelocity. No Feb 2027 Pres Day specific fares surfaced. Est. ~$700-$950 with holiday premium. |
+| 2026-08-25 | JFK→BGI nonstop | B6/AA | ~$385-$442 (off-peak, general) | FareCompare ($385 floor), Farecompare BGI→NYC $442 | Typical range $518-$963 per search aggregate; Jan cheapest month ($325-$410). No Feb 2027 specific pricing. |
+| 2026-08-25 | JFK→RTB 1-stop | DL via ATL / AA via MIA | ~$221-$539 (route page floor to realistic range) | Travelocity ($221 floor displayed), AA ($236), Delta ($281) | Route-page lows likely one-way or off-peak; realistic RT est. $509-$539 consistent with prior weeks. No nonstop. |
+
+**Deal-source scan (2026-08-25):**
+- **Going.com**: No active deal found for JFK→SXM/BGI/RTB this week. Caribbean noted as "best international value" for summer 2026 hurricane-season travel, but no winter 2027 specific alert surfaced.
+- **JetBlue**: No current flash sale covering Feb 2027 Caribbean routes from JFK found. Last sale expired Aug 6 (Sep–Nov 2026 travel only).
+- **Thrifty Traveler**: Winter 2027 article references "fares in the $200s and $300s to SXM" for Jan/Feb — below the $450 deal threshold, but no active alert or bookable deal found. Same article as prior weeks.
+- **The Points Guy**: No new Caribbean deal post covering SXM/BGI/RTB from JFK this week.
+- **Note**: Booking window for flights (90-120 days out = Oct–Nov 2026) is ~2 months away. Per MONITORING.md timeline, this is still the "monitor weekly" phase; flight booking sweet spot is Oct 2026.
+
 ### Villa quotes log
 | Date | Villa | URL | Week $ | Available? |
 |---|---|---|---|---|
