@@ -356,6 +356,22 @@ User wants continuous monitoring. Suggested:
 - **The Points Guy**: No new Caribbean deal post covering SXM/BGI/RTB from JFK this week.
 - **Note**: Booking window for flights (90-120 days out = Oct–Nov 2026) is ~2 months away. Per MONITORING.md timeline, this is still the "monitor weekly" phase; flight booking sweet spot is Oct 2026.
 
+### Fare-watch reading 2026-09-01 (~5.5 mo out) — ⚪ NO DEAL
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-09-01 | JFK→SXM nonstop | B6/DL/AA | ~$242-$320 (off-peak, general) | Expedia ($132 OW floor / $321 RT floor); Kayak ($145 floor); Orbitz ($147 floor); Skyscanner ("cheapest in last 5 days $256 RT") | Route-page all-dates lows; "25% of users found ≤$427 RT" per Expedia. No Feb 2027 Pres Day specific fares. Est. $700-$950 with holiday premium (unchanged). |
+| 2026-09-01 | JFK→BGI nonstop | B6/AA/Caribbean Air | ~$381-$416 (off-peak, general) | Priceline ($395 floor to Barbados); Skyscanner NYC-BGI from $381; Caribbean Airlines route page $416 | Travelocity shows Caribbean Airlines OW floor $154. AA Jan 2027 from $517. No Feb 2027 Pres Day specific pricing. Est. $600-$750. |
+| 2026-09-01 | JFK→RTB 1-stop | DL via ATL / AA via MIA | ~$221-$352 (route page floor to CheapOair) | Travelocity ($221 floor); Skyscanner $226 (NYC); CheapOair from $352; Delta route page $281 | No nonstop confirmed. Route-page lows likely one-way/off-peak. Feb 2027 Pres Day est. $580-$950. |
+
+**Deal-source scan (2026-09-01):**
+- **Going.com**: No active confirmed deal found for JFK→SXM/BGI/RTB this week. An archived Going.com email title ("JetBlue Sale, nonstop Caribbean — $150 to $343 (Jan-Mar)") may refer to a prior-cycle deal; site blocked to verify.
+- **JetBlue**: Fall Fare sale (Aug 5-6) covered Sep 9–Nov 18, 2026 travel only — NOT Feb 2027. No current sale covering target dates found.
+- **Thrifty Traveler**: Same Thrifty Traveler "Winter 2027" article still referenced in results; no new flash deal for SXM/BGI/RTB this week.
+- **The Points Guy**: No new Caribbean deal post covering target routes. Adjacent: JFK→MBJ (Montego Bay) $318 RT nonstop on B6/AA for travel Sep–Feb 2027 posted on Slickdeals (live deal) — shows market-level Caribbean nonstop at ~$318, but SXM/BGI not confirmed at this price.
+- **Southwest Airlines note**: Southwest launched SXM service from BWI/MCO in April 2026 (once-daily). No direct NYC service; NYC travelers would need a connection. Sample BWI→SXM OW $104-$116. Not a JFK option but opens budget routing for flexible travelers via BWI.
+- **Note**: We are now in the transition from "monitor weekly" to "bi-weekly" per MONITORING.md timeline (bi-weekly Aug–Oct 2026). Flight booking sweet spot is Oct 2026 (90-120 days out). ⚠️ Watch window ends Oct 31, 2026 — only 2 more months of scheduled monitoring.
+
 ### Villa quotes log
 | Date | Villa | URL | Week $ | Available? |
 |---|---|---|---|---|
