@@ -413,6 +413,22 @@ User wants continuous monitoring. Suggested:
 | 2026-05-19 | Providence Estate Maxwell BGI | barbadosdreamvillas.com | ~$3.5-5.5k | TBD |
 | 2026-05-19 | Bon Accord 4BR Tobago | vrbo.com/3217551 | ~$2-3k | TBD ← cheapest |
 
+### Fare-watch reading 2026-09-15 (~5 mo out) — ⚪ NO DEAL
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-09-15 | JFK→SXM nonstop | AA/B6/DL | $501 (Feb 2027 AA specific); $76-$147 route-page floor | AA.com Feb 2027 from $501 (consistent with 09-08 reading); Orbitz $147 floor; Skyscanner $76 floor (all dates) | AA Feb 2027 date-specific fare unchanged at $501 — above $450 deal threshold. Route-page floors are all-dates lows, not Feb 2027. Est. $700-$950 Pres Day premium unchanged. |
+| 2026-09-15 | JFK→BGI nonstop | B6/AA/Caribbean Air | ~$416-$474 (general/off-peak) | Caribbean Airlines route page $416; Google Flights via JetBlue recent $474 RT; FareCompare $442 typical | No Feb 2027 specific fares surfaced. Feb est. $600-$750 with Pres Day premium unchanged. |
+| 2026-09-15 | JFK→RTB 1-stop | DL via ATL / AA via MIA | ~$221-$539 (route-page floor to realistic range) | Travelocity $221 floor; Delta Travelocity from $243; Skyscanner NYCA from $207; realistic RT range $509-$539 | No nonstop; no Feb 2027 specific fares surfaced. Est. $580-$950 Pres Day premium unchanged. |
+
+**Deal-source scan (2026-09-15):**
+- **JetBlue**: No current flash sale covering Feb 2027 Caribbean routes from JFK. "Fall Fare" sale expired Aug 6 (Sep 9–Nov 18, 2026 travel only; SXM was $154 OW but not applicable to our dates).
+- **Going.com**: No active deal found for JFK→SXM/BGI/RTB this week.
+- **Thrifty Traveler**: Same ongoing "Winter 2027 Caribbean" article still in results — references SXM "in the $200s and $300s for Jan/Feb" but no new active bookable alert this week.
+- **The Points Guy**: No new Caribbean deal post for target routes found this week.
+- **Caribbean Airlines**: 72-hour sale page active but targeted fares for JFK→SXM/BGI not confirmed; JFK→Georgetown (GEO) from $488 RT for Oct 2026 as comparator.
+- **⚠️ Watch window**: Only ~6.5 weeks of monitoring remain before Oct 31, 2026 cutoff. Booking sweet spot (90-120 days out = Oct 24–Nov 15) is imminent. Recommend checking AA.com and JetBlue.com directly for Feb 2027 Pres Day fares as the calendar opens up.
+
 ---
 
 ## Notes / open questions
