@@ -413,6 +413,21 @@ User wants continuous monitoring. Suggested:
 | 2026-05-19 | Providence Estate Maxwell BGI | barbadosdreamvillas.com | ~$3.5-5.5k | TBD |
 | 2026-05-19 | Bon Accord 4BR Tobago | vrbo.com/3217551 | ~$2-3k | TBD ← cheapest |
 
+### Fare-watch reading 2026-09-22 (~5 mo out) — ⚪ NO DEAL
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-09-22 | JFK→SXM nonstop | B6/DL/AA | $231 (recent low, off-peak/all-dates); $342 B6 / $460 DL (last 5 days); $501 AA Feb 2027 specific | Travelocity/Skyscanner route pages; AA.com Feb 2027 fare (consistent with 09-08 and 09-15 readings) | AA Feb 2027 specific fare holds at $501 — above $450 deal threshold. Near-term route-page lows ($231-$342) are not Feb 2027 dates. Est. $700-$950 Pres Day premium unchanged. |
+| 2026-09-22 | JFK→BGI nonstop | B6/AA/Caribbean Air | ~$474 (JetBlue general); Caribbean Airlines $606 (general) | Google Flights via JetBlue $474 RT; Caribbean Airlines route page $606 (Thrifty Traveler reference) | No Feb 2027 specific fares surfaced. Feb est. $600-$750 Pres Day premium unchanged. |
+| 2026-09-22 | JFK→RTB 1-stop | DL via ATL / AA via MIA | $221-$243 (route-page floor/off-peak); realistic RT ~$509-$539 | Expedia/Travelocity $221 floor; Delta Travelocity from $243; Skyscanner NYCA from $207 | No nonstop; no Feb 2027 specific fares surfaced. Feb 2027 Pres Day est. $580-$950 unchanged. |
+
+**Deal-source scan (2026-09-22):**
+- **JetBlue**: JetBlue Getaways running 20% off vacation packages (air + hotel) through 6/17 for travel Sep 8–Dec 16, 2026 only — does NOT cover Feb 2027. No flash sale covering Feb 2027 Caribbean routes from JFK found.
+- **Going.com**: Near-term Caribbean fares found (JFK→BGI ~$581 Sep 19-23; JFK→SXM ~$633 Nov 6-13) but these are not Feb 2027. No active deal alert for our travel window.
+- **Thrifty Traveler**: Same ongoing "Winter 2027 Caribbean" article still in results — references SXM "in the $200s and $300s for Jan/Feb" but no new bookable alert this week. NYC LGA→Caribbean $299 RT mentioned as general comparator context.
+- **The Points Guy**: No new Caribbean deal post for SXM/BGI/RTB from JFK this week. TPG Virgin Islands deals page active but not confirmed for JFK/Feb 2027.
+- **⚠️ Watch window**: ~5.5 weeks of monitoring remain before Oct 31, 2026 cutoff. The 90-120 day booking window (Oct 24–Nov 15) opens in ~4 weeks — this is the target flight-purchase window per MONITORING.md timeline.
+
 ### Fare-watch reading 2026-09-15 (~5 mo out) — ⚪ NO DEAL
 
 | Date | Route | Carrier | $/pp RT signal | Source | Notes |
