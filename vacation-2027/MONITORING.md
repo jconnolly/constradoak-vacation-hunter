@@ -428,6 +428,22 @@ User wants continuous monitoring. Suggested:
 - **The Points Guy**: No new Caribbean deal post for SXM/BGI/RTB from JFK this week. TPG Virgin Islands deals page active but not confirmed for JFK/Feb 2027.
 - **⚠️ Watch window**: ~5.5 weeks of monitoring remain before Oct 31, 2026 cutoff. The 90-120 day booking window (Oct 24–Nov 15) opens in ~4 weeks — this is the target flight-purchase window per MONITORING.md timeline.
 
+### Fare-watch reading 2026-09-29 (~4.5 mo out) — ⚪ NO DEAL
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-09-29 | JFK→SXM nonstop | AA/B6/DL | $420 floor (Feb 2027 general); range $377–$601; est. $500–700 Pres Day week | aa.com route page (~13hr data); Skyscanner $101 all-dates floor; Expedia $104 all-dates floor | **AA Feb 2027 floor dropped from $501 → $420** — first signal below $450 deal threshold. Likely cheapest off-peak Feb dates, not specifically Feb 13–20. Recommend checking aa.com for Feb 13–20 dates directly this week. |
+| 2026-09-29 | JFK→BGI nonstop | AA/B6 | $462 AA (Feb 2027 general); B6 $151 OW Feb 8 (~$302 implied RT) | aa.com route page; JetBlue route page | AA holds at $462 for Feb 2027 (above threshold). B6 Feb 8 is pre-Pres Day — Feb 13–20 likely higher. Feb est. $600–$750 Pres Day premium unchanged. |
+| 2026-09-29 | JFK→RTB 1-stop | DL via ATL / AA via MIA | $221–$243 route-page floors; realistic RT ~$509–$539 | Travelocity/Expedia/Skyscanner/Travelocity route pages; FareCompare $454+ typical | No nonstop; no Feb 2027 specific fares surfaced. Pres Day est. $580–$950 unchanged. |
+
+**Deal-source scan (2026-09-29):**
+- **Going.com**: No active deal found for JFK→SXM/BGI/RTB this week.
+- **JetBlue**: B6 showing $144–$151 OW for BGI on Dec 1 and Feb 8, 2027 — both pre-Pres Day windows. No flash sale or fare sale covering Feb 13–20, 2027 found. JetBlue Vacations current promos are for 2026 travel only.
+- **Thrifty Traveler**: "Cheap Flights to the Caribbean This Winter: Last Chance to Book!" article now appearing alongside the ongoing "Winter 2027 Caribbean" article — suggests urgency messaging ramping up, but no new bookable alert for SXM/BGI/RTB from JFK this week. NYC→Caribbean $299 RT still referenced as general context.
+- **The Points Guy**: No new Caribbean deal post for target routes from JFK this week.
+- **⚠️ Key signal**: AA JFK→SXM Feb 2027 floor is now $420 — down from $501 seen in 9/8–9/22 readings. This is the **first Feb 2027-labeled fare under $450** we've captured. It almost certainly reflects cheaper non-holiday Feb dates, but it signals fare inventory is opening and could drop further. Manually check aa.com for exactly Feb 13–20 this week.
+- **⚠️ Watch window**: Only ~32 days remain before the Oct 31, 2026 monitoring cutoff. The 90-day booking window (Oct 24–Nov 15) opens in ~25 days — this is the flight-booking sweet spot per MONITORING.md. Likely 1–2 fare-watch runs remain.
+
 ### Fare-watch reading 2026-09-15 (~5 mo out) — ⚪ NO DEAL
 
 | Date | Route | Carrier | $/pp RT signal | Source | Notes |
