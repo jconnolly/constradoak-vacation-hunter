@@ -428,6 +428,21 @@ User wants continuous monitoring. Suggested:
 - **The Points Guy**: No new Caribbean deal post for SXM/BGI/RTB from JFK this week. TPG Virgin Islands deals page active but not confirmed for JFK/Feb 2027.
 - **⚠️ Watch window**: ~5.5 weeks of monitoring remain before Oct 31, 2026 cutoff. The 90-120 day booking window (Oct 24–Nov 15) opens in ~4 weeks — this is the target flight-purchase window per MONITORING.md timeline.
 
+### Fare-watch reading 2026-10-06 (~4.5 mo out) — ⚪ NO DEAL
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-10-06 | JFK→SXM nonstop | Caribbean Air/B6/AA | $676 (Feb 2027 general, Caribbean Air route page); $101 OW / $137 RT all-dates floor | Caribbean Airlines route page; Kayak/Skyscanner all-dates floors | Feb 2027 specific fare at $676 is above $450 deal threshold. Prior week AA Feb 2027 floor was $420 (may reflect cheaper non-holiday Feb dates). Pres Day Feb 13–20 est. $700–$950 unchanged. JetBlue $290 RT NYC↔SXM nonstop confirmed on Slickdeals for Sep–Nov 2026 travel only (not Feb 2027). |
+| 2026-10-06 | JFK→BGI nonstop | JetBlue/AA | $428 (near-term, Aug 2026 article); no Feb 2027 specific fare | CaribbeanJournal 2026-08-23 (JetBlue JFK→BGI); Kayak all-dates floor $127 | $428 near-term B6 fare is below $450 threshold but refers to Aug 2026 travel, not Feb 2027. No current bookable Feb 2027 fare surfaced. Feb est. $600–$750 Pres Day premium unchanged. |
+| 2026-10-06 | JFK→RTB 1-stop | DL via ATL / AA via MIA | $537 (Feb 1–23, 2027 general); route-page floor ~$131 | Expedia/Travelocity Feb 2027 route search; Travelocity all-dates floor | $537 is first confirmed Feb 2027 date-range specific fare for RTB. No nonstop. Delta DL1808 (ATL→RTB Saturdays only) still lines up with Feb 13 & Feb 20 dates. |
+
+**Deal-source scan (2026-10-06):**
+- **Going.com**: No active deal found for JFK→SXM/BGI/RTB this week.
+- **JetBlue**: JetBlue $290 RT NYC↔SXM nonstop (Slickdeals 2026-09/10) covers Sep 21, 28; Oct 4, 18, 26–27; Nov 28/30 — NOT Feb 2027. No current flash sale covering Feb 2027 target dates found.
+- **Thrifty Traveler**: No new flash deal found for SXM/BGI/RTB this week. Ongoing "Winter 2027 Caribbean" article still references SXM "in the $200s and $300s for Jan/Feb" but no new bookable alert.
+- **The Points Guy**: TPG has "New York to Barbados from $244" page (historical 2016 data, not active). No new Caribbean deal post for SXM/BGI/RTB from JFK this week.
+- **⚠️ Watch window ENDING**: Today is 2026-10-06; watch window closes 2026-10-31 (~25 days). The 90-day booking window for Feb 13 opens Oct 24 — **NOW is the time to book flights**. Per MONITORING.md timeline, Oct–Nov 2026 is the flight-booking sweet spot. Recommend user disable this routine after Oct 31 and manually book flights in next 2–3 weeks.
+
 ### Fare-watch reading 2026-09-29 (~4.5 mo out) — ⚪ NO DEAL
 
 | Date | Route | Carrier | $/pp RT signal | Source | Notes |
