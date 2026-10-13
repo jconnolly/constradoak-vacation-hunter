@@ -477,6 +477,26 @@ User wants continuous monitoring. Suggested:
 
 ---
 
+### Fare-watch reading 2026-10-13 (~4 mo out) — ⚪ NO DEAL
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-10-13 | JFK→SXM nonstop | B6/DL/AA | ~$270-$460 (off-peak, general); Feb 2027 est. $700–$950 Pres Day | Expedia route page (~$270-$305 late Feb); Travelocity $362 RT / $172 OW; AA.com prior week $420 Feb 2027 floor | No Feb 13–20 Pres Day specific fare surfaced. JetBlue $290 RT NYC↔SXM (Slickdeals) covers Sep–Nov 2026 travel only — NOT Feb 2027. |
+| 2026-10-13 | JFK→BGI nonstop | B6/AA/Caribbean Air | ~$366-$474 (off-peak, general); Feb 2027 est. $600–$750 Pres Day | Caribbean Airlines route page ~$366 (Feb-Mar 2026 ref); JetBlue from $179 OW / $301 RT (off-peak undated) | No Feb 2027 specific fares surfaced. Est. unchanged from prior weeks. |
+| 2026-10-13 | JFK→RTB 1-stop | DL via ATL / AA via MIA | ~$323-$420 (route-page); Feb 2027 est. $580–$950 Pres Day | Travelocity $324 RT; Expedia $323 RT (AA/DL); Orbitz $420 RT | No nonstop; no Feb 2027 specific fares surfaced. Feb 2027 Pres Day estimate unchanged. |
+
+**Deal-source scan (2026-10-13):**
+- **JetBlue**: $290 RT NYC↔SXM nonstop (Slickdeals, via Expedia) — Sep–Nov 2026 travel only (Oct 4, 18, 26–27 departures). Does NOT cover Feb 2027. No new flash sale covering Feb 2027 found.
+- **Going.com**: No active deal found for JFK→SXM/BGI/RTB this week.
+- **Thrifty Traveler**: No new flash deal found for target routes this week.
+- **The Points Guy**: No new active deal post for SXM/BGI/RTB from JFK this week.
+- **Copa Air**: Showing JFK→SXM from $1,195 (multi-leg via PTY) — not relevant for our nonstop preference.
+- **⚠️ WATCH WINDOW ENDING — ACTION REQUIRED**: The 90-day booking window for Feb 13, 2027 opens Oct 24 — only 11 days away. This is the prime flight-booking window per MONITORING.md timeline. AA Feb 2027 JFK→SXM floor was $420 as of 09-29. Check aa.com, jetblue.com, and delta.com directly for Feb 13–20 fares now.
+
+> ⚠️ **Watch window has ended.** Today (2026-10-13) is within the original Oct 2026 stop window. The human should disable this routine and book flights — the 90-day window for Feb 13 opens Oct 24. No further automated runs are expected to be useful.
+
+---
+
 ## Notes / open questions
 - Multi-leg verdict so far: SKIP for all dests (nonstops are cheap, hotels eat any savings). Exception: Bocas requires PTY overnight (operational).
 - Date flex: Thu Feb 11 outbound / Sun Feb 21 return likely cheaper than Sat-Sat — shoulders avoid peak rotation.
