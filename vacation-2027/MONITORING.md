@@ -497,6 +497,25 @@ User wants continuous monitoring. Suggested:
 
 ---
 
+### Fare-watch reading 2026-10-20 (~4 mo out) — ⚪ NO DEAL
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-10-20 | JFK→SXM nonstop | AA/B6/DL | $317 (Feb 2027 general, AA.com); $350 B6 / $368 AA (Feb 6–13 2027, Kayak); est. $600–$800 Pres Day Feb 13–20 | AA.com flights page (~11h old); Kayak route page Feb 6–13 | **AA Feb 2027 floor dropped $420→$317** — new low for any Feb 2027 date. Pre-Pres Day week (Feb 6–13) priced $350–$368 on Kayak. Feb 13–20 Pres Day est. still $700–$950 until date-specific fares surface. No confirmed deal ≤$450 for Feb 13–20. |
+| 2026-10-20 | JFK→BGI nonstop | B6/AA/Caribbean Air | ~$366–$474 (off-peak, general); B6 BGI→JFK from $301 OW (Oct 2026 dates) | Caribbean Airlines route page ~$366; JetBlue route page $301 OW | No Feb 2027 specific fares surfaced. Feb 2027 Pres Day est. $600–$750 (unchanged). |
+| 2026-10-20 | JFK→RTB 1-stop | DL via ATL / AA via MIA | ~$324–$420 (off-peak, general); Feb 2027 Pres Day est. $580–$950 | Expedia $324; Travelocity $324–$374; Orbitz $420 | No Feb 2027 specific fares surfaced. Unchanged from prior weeks. |
+
+**Deal-source scan (2026-10-20):**
+- **JetBlue**: $290 RT NYC↔SXM (Slickdeals) still appearing but covers Oct 4, 18, 26–27 departures only — NOT Feb 2027. No flash sale covering Feb 2027 Caribbean routes from JFK found.
+- **Going.com**: No active deal found for JFK→SXM/BGI/RTB this week.
+- **Thrifty Traveler**: No new flash deal found for target routes this week.
+- **The Points Guy**: No new active Caribbean deal post for SXM/BGI/RTB from JFK this week.
+- **⚠️ KEY SIGNAL**: AA.com Feb 2027 JFK→SXM floor dropped to **$317 RT** — down from $420 (09-29) and $501 (09-08). Likely reflects cheapest off-peak Feb dates, NOT Feb 13–20 specifically. Kayak shows Feb 6–13 at $350 (JetBlue) / $368 (AA) — the pre-Pres Day shoulder.
+- **⚠️ BOOK NOW — WATCH WINDOW ENDING**: The 90-day window for Feb 13, 2027 opened Oct 15. Today is Oct 20 — **we are inside the prime booking window** per MONITORING.md timeline. This is one of the final 2 automated runs before the Oct 31 cutoff. Check aa.com, jetblue.com, delta.com for Feb 13–20 directly and purchase flights this week. AA showing $317 floor for non-holiday Feb dates; expect $500–$700 for Pres Day week specifically.
+- **⚠️ WATCH WINDOW NOTE**: Per the watch schedule, this run is within the final 2 weeks of the monitoring window (ends Oct 31, 2026). The human should disable this routine after the Oct 27 run and book flights manually.
+
+---
+
 ## Notes / open questions
 - Multi-leg verdict so far: SKIP for all dests (nonstops are cheap, hotels eat any savings). Exception: Bocas requires PTY overnight (operational).
 - Date flex: Thu Feb 11 outbound / Sun Feb 21 return likely cheaper than Sat-Sat — shoulders avoid peak rotation.
