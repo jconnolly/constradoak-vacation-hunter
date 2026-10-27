@@ -516,6 +516,24 @@ User wants continuous monitoring. Suggested:
 
 ---
 
+### Fare-watch reading 2026-10-27 (~3.5 mo out) — ⚪ NO DEAL
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-10-27 | JFK→SXM nonstop | B6/DL/AA | ~$270–$315 (off-peak, general); Feb 2027 floor ~$317 (prior week, AA.com); est. $600–$800 Pres Day Feb 13–20 | Delta Expedia route page (~$270–$305 late Feb); JetBlue Expedia route page (~$307–$315 Dec/Jan); Kayak SXM→JFK from $219 | No new Feb 13–20 Pres Day specific fare surfaced. Prior week (10-20) AA Feb 2027 floor was $317; Kayak showed Feb 6–13 at $350–$368. Pres Day window est. $600–$800 (range narrowing from $700–$950). No deal ≤$450. |
+| 2026-10-27 | JFK→BGI nonstop | B6/AA | ~$273–$344 (off-peak, historical); Feb 2027 est. $600–$750 Pres Day | Airfarewatchdog B6 $344 RT nonstop (March dates); Airfarewatchdog $273 RT (historical); no Feb 2027 specific fares surfaced | General route floor data only. Feb 2027 Pres Day estimate unchanged. |
+| 2026-10-27 | JFK→RTB 1-stop | DL via ATL / AA via MIA | ~$324–$374 (off-peak, general); est. $580–$950 Pres Day | Expedia/Travelocity $324–$374 (no dates); CheapOair Feb 2027 from $561 (NOL) / $666 (MIA) — not JFK | No JFK-specific Feb 2027 fares surfaced. No nonstop. DL1808 (ATL→RTB Sat-only) still ideal alignment with Feb 13 & Feb 20 dates. |
+
+**Deal-source scan (2026-10-27):**
+- **Going.com**: No active deal found for JFK→SXM/BGI/RTB this week.
+- **JetBlue**: No current flash sale covering Feb 2027 Caribbean routes from JFK found. No new sale.
+- **Thrifty Traveler**: General "winter 2027 Caribbean" guidance still present; mentions cheap fares in the $300s to some Caribbean islands for Jan/Feb 2027 (e.g. Grand Cayman from $300s RT from Delta hubs) — no specific SXM/BGI/RTB from JFK alert found.
+- **The Points Guy**: TPG Caribbean beach fares page active but no SXM/BGI/RTB specific deal from JFK this week.
+- **American Airlines**: No flash sale covering Feb 2027 Caribbean routes from JFK found.
+- **⚠️ WATCH WINDOW HAS ENDED**: Today is 2026-10-27 — the configured watch window closes Oct 31, 2026. The 90-day booking window for Feb 13, 2027 opened Oct 15. **ACTION REQUIRED: disable this routine now and book flights manually** on aa.com, jetblue.com, delta.com for Feb 13–20 specifically. Last known AA Feb 2027 floor: $317 (off-peak dates); Kayak Feb 6–13 pre-Pres Day shoulder: $350–$368. Expect $500–$700 for Feb 13–20 specifically — check and book this week.
+
+---
+
 ## Notes / open questions
 - Multi-leg verdict so far: SKIP for all dests (nonstops are cheap, hotels eat any savings). Exception: Bocas requires PTY overnight (operational).
 - Date flex: Thu Feb 11 outbound / Sun Feb 21 return likely cheaper than Sat-Sat — shoulders avoid peak rotation.
