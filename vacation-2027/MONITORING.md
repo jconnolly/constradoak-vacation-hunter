@@ -534,6 +534,27 @@ User wants continuous monitoring. Suggested:
 
 ---
 
+### Fare-watch reading 2026-11-03 (~3.5 mo out) — ⚪ NO DEAL
+
+⚠️ **WATCH WINDOW ENDED 2026-10-31** — this is a post-cutoff run. The routine should be disabled. The human should be actively booking flights for Feb 13–20, 2027 now (90-day window opened Oct 15).
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-11-03 | JFK→SXM nonstop | B6/DL/AA | ~$270–$317 (off-peak, general); est. $600–$800 Pres Day Feb 13–20 | Expedia route page (~$270 late Feb floors); AA.com prior-week Feb 2027 floor $317; JetBlue SXM→JFK OW from $260 (Nov 2026) | No new Feb 13–20 Pres Day specific fare surfaced. Secret Flying listed NYC→SXM (United, undated) at $283 RT — possibly stale. Pres Day premium estimate $600–$800 unchanged. No deal ≤$450 found. |
+| 2026-11-03 | JFK→BGI nonstop | B6 only (AA removed) | No Feb 2027 specific fare found; AA Feb route pages show $434 (Feb 6–13) / $468 (Feb 4–12) but AA removed JFK→BGI nonstop Nov 2026 | AeroRoutes (2026-05-21); AA.com Feb 2027 fare pages | ⚠️ **ROUTE CHANGE**: American Airlines removed JFK→BGI nonstop service — last AA flight was Sep 7, 2026. AA BGI fares in results ($434–$468) likely connect via another airport. **JetBlue is now the primary (possibly only) nonstop carrier from JFK to BGI.** Feb 2027 Pres Day est. $600–$750 from JetBlue. |
+| 2026-11-03 | JFK→RTB 1-stop | DL via ATL / AA via MIA | ~$324–$420 (off-peak, general); CheapOair Feb 2027 from MIA $666 / from ATL $709 (not JFK) | Expedia/Travelocity ($324–$374); Orbitz ($420 RT); CheapOair Feb 2027 non-JFK | No JFK-specific Feb 2027 fare surfaced. No nonstop. DL1808 (ATL→RTB Sat-only) still ideal for Feb 13 & Feb 20. Feb 2027 Pres Day est. $580–$950 unchanged. |
+
+**Deal-source scan (2026-11-03):**
+- **Going.com**: No active deal found for JFK→SXM/BGI/RTB this week.
+- **JetBlue**: No flash sale covering Feb 2027 Caribbean routes from JFK found.
+- **Thrifty Traveler**: No new active bookable deal for target routes this week.
+- **The Points Guy**: No new Caribbean deal post for SXM/BGI/RTB from JFK this week.
+- **Secret Flying**: NYC→SXM $283 RT nonstop (United) — date unclear, possibly stale; worth checking.
+- **⚠️ CRITICAL ROUTE CHANGE — BARBADOS**: American Airlines permanently removed JFK→BGI nonstop service from Nov 2026 onward. AA's JFK–BGI route that relaunched Nov 2024 ended Sep 7, 2026. JetBlue is now the primary nonstop option from JFK to BGI for Feb 2027. Verify JetBlue Feb 13–20 availability and price on jetblue.com before assuming BGI as viable backup.
+- **⚠️ ACTION REQUIRED**: Watch window ended Oct 31. Book flights for Feb 13–20 on aa.com (SXM), jetblue.com (SXM/BGI), delta.com (SXM/RTB via ATL) — do it now. 90-day window for Feb 13 departure has been open since Oct 15.
+
+---
+
 ## Notes / open questions
 - Multi-leg verdict so far: SKIP for all dests (nonstops are cheap, hotels eat any savings). Exception: Bocas requires PTY overnight (operational).
 - Date flex: Thu Feb 11 outbound / Sun Feb 21 return likely cheaper than Sat-Sat — shoulders avoid peak rotation.
