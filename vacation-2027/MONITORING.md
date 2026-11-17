@@ -577,6 +577,25 @@ User wants continuous monitoring. Suggested:
 
 ---
 
+### Fare-watch reading 2026-11-17 (~3 mo out) — ⚪ NO DEAL
+
+⚠️ **WATCH WINDOW ENDED 2026-10-31** — this is a post-cutoff run (17 days past stop date). The 90-day booking window for Feb 13, 2027 opened Oct 15. **Book flights now.**
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-11-17 | JFK→SXM nonstop | B6/DL | B6 SXM→JFK OW from $192 (Jan 13, 2027); Travelocity general $290–$399 RT; Expedia route-page $132 floor (all-dates) | JetBlue route page; Travelocity; Expedia | First B6 Jan 2027 one-way return leg signal at $192 — implies ~$384 RT if symmetric. No Feb 13–20 Pres Day specific fare surfaced. Prior week AA floor $317 (off-peak Feb dates). Pres Day Feb 13–20 est. $600–$800 (unchanged). No deal ≤$450 found. |
+| 2026-11-17 | JFK→BGI nonstop | B6 only | B6 from $179 OW (Oct 2026 dates); Airfarewatchdog $293 RT (Feb 8–14, year unclear); JetBlue BGI→US $278 OW (Feb 6, 2027, BOS not JFK) | JetBlue route pages; Airfarewatchdog | AA nonstop still removed (confirmed since Sep 7, 2026 — JetBlue is the only JFK nonstop). No confirmed Feb 2027 Pres Day specific fare. Est. $600–$750 Pres Day (unchanged). |
+| 2026-11-17 | JFK→RTB 1-stop | DL via ATL / AA via MIA | $131–$324 (route-page floor, undated/off-peak); prior week realistic est. $580–$950 Pres Day | Expedia/Kayak/Momondo route pages | No Feb 2027 specific fares surfaced. No nonstop. DL1808 (ATL→RTB Saturdays only) ideal for Feb 13 & Feb 20 dates. Pres Day est. unchanged. |
+
+**Deal-source scan (2026-11-17):**
+- **JetBlue**: No current flash sale covering Feb 2027 Caribbean routes from JFK found. JetBlue "Big Winter Sale" (recurring annual, usually Jan/Feb) not yet announced for 2027. When it runs, check if Feb 13–20 dates qualify — past sales had blackout dates around Presidents Day.
+- **Going.com**: No active deal found for JFK→SXM/BGI/RTB this week.
+- **Thrifty Traveler**: "Cheap Flights to Escape Winter" article still references Caribbean fares in the $200s–$300s for winter 2027 (including SXM) but no new bookable alert for SXM/BGI/RTB from JFK found this week.
+- **The Points Guy**: No new Caribbean deal post for target routes from JFK this week. TPG Caribbean beach fares page active but nothing specific for SXM/BGI/RTB.
+- **⚠️ WATCH WINDOW ENDED + ACTION REQUIRED**: Routine should be disabled immediately. Book flights on jetblue.com (SXM/BGI), delta.com (SXM/RTB via ATL) for Feb 13–20 specifically. Last meaningful signals: B6 SXM typical $375–$830 (Pres Day est. $600–$800); B6 BGI only nonstop ~$600–$750 Pres Day; RTB via ATL/MIA est $580–$950.
+
+---
+
 ## Notes / open questions
 - Multi-leg verdict so far: SKIP for all dests (nonstops are cheap, hotels eat any savings). Exception: Bocas requires PTY overnight (operational).
 - Date flex: Thu Feb 11 outbound / Sun Feb 21 return likely cheaper than Sat-Sat — shoulders avoid peak rotation.
