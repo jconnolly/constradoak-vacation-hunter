@@ -596,6 +596,27 @@ User wants continuous monitoring. Suggested:
 
 ---
 
+### Fare-watch reading 2026-11-24 (~2.5 mo out) — ⚪ NO DEAL
+
+⚠️ **WATCH WINDOW ENDED 2026-10-31** — this is a post-cutoff run (24 days past stop date). The 90-day booking window for Feb 13, 2027 opened Oct 15. **Book flights now — this routine should be disabled immediately.**
+
+| Date | Route | Carrier | $/pp RT signal | Source | Notes |
+|---|---|---|---|---|---|
+| 2026-11-24 | JFK→SXM nonstop | AA/B6/DL | **$1,057 RT for Feb 15–20, 2027 (NYC, Pres Day week)** — first confirmed Pres Day-specific fare; route-page floor $129–$147 (all-dates/off-peak) | AA.com route page (Feb 15–20, 2027 NYC→SXM); Kayak/JetBlue route pages | ⚠️ **FIRST CONFIRMED PRES DAY WEEK FARE: $1,057 RT** — well above $450 deal threshold. AA also shows Jan 14–18 at $752; Apr 23–28 at $441 (non-holiday). No deal. Est. $700–$950+ Pres Day range now has real data anchor. |
+| 2026-11-24 | JFK→BGI nonstop | B6 only | No Feb 2027 specific fare; JetBlue from $179 OW (Oct 2026 dates); $125 OW listed for "Feb 8" (year unclear) | JetBlue route pages | AA nonstop confirmed still removed (since Sep 7, 2026 — JetBlue is the only nonstop from JFK to BGI). No confirmed Feb 2027 Pres Day fare. Est. $600–$750 Pres Day (unchanged). |
+| 2026-11-24 | JFK→RTB 1-stop | DL via ATL / AA via MIA | ~$324–$407 RT (Expedia/Kayak, undated/general); no Feb 2027 specific fare | Expedia/Kayak route pages | No nonstop. DL1808 (ATL→RTB Saturdays only) still ideal for Feb 13 & Feb 20. Feb 2027 Pres Day est. $580–$950 unchanged. |
+
+**Deal-source scan (2026-11-24):**
+- **JetBlue**: "Winter Your Way" sale ended Nov 11, 2026 — travel Dec 1–Feb 10, 2027; Tues/Wed/Sat only. Travel window ended **before Feb 13** so Pres Day week was NOT covered. No new sale found covering Feb 13–20, 2027.
+- **Going.com**: No active deal found for JFK→SXM/BGI/RTB this week.
+- **Thrifty Traveler**: No new active bookable deal for SXM/BGI/RTB from NYC this week.
+- **The Points Guy**: No new Caribbean deal post for target routes from JFK this week.
+- **Slickdeals context**: JFK→AUA (Aruba) $351 RT nonstop on JetBlue, travel Nov–Feb 2027 — indicates JetBlue Caribbean deals are active but SXM/BGI not at deal level.
+- **⚠️ KEY DATA POINT**: AA.com now shows Feb 15–20, 2027 NYC→SXM from **$1,057 RT** — the first confirmed Presidents Day week fare. This confirms the high-premium scenario and is 136% above the $450 deal threshold. Jan 2027 (non-holiday) fares from $752 and Apr 2027 from $441 show the holiday markup clearly. Book flights for Feb 13–20 on jetblue.com / delta.com NOW.
+- **⚠️ WATCH WINDOW HAS ENDED**: This routine should be disabled. The human should book flights immediately.
+
+---
+
 ## Notes / open questions
 - Multi-leg verdict so far: SKIP for all dests (nonstops are cheap, hotels eat any savings). Exception: Bocas requires PTY overnight (operational).
 - Date flex: Thu Feb 11 outbound / Sun Feb 21 return likely cheaper than Sat-Sat — shoulders avoid peak rotation.
